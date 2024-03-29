@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245698838678",
+    "project_id": "xmed-1b5bb",
+    "storage_bucket": "xmed-1b5bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245698838678:android:25f3833c027f8c6d0f82b7",
+        "android_client_info": {
+          "package_name": "com.example.xmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtDolJtqJXQ8Ea8DKMJf4DJIR2_QuF-Xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
